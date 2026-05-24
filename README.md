@@ -32,8 +32,8 @@ In this project, we:
 
 Gen AI Using ML Flow/
 │
-├── main.py # Main evaluation script
-├── requirements.txt # Dependencies
-├── .gitignore # Ignored files
-├── eval.csv # Generated evaluation results
-└── README.md # Project documentation
+├── main.py            # Main evaluation script
+├── requirements.txt   # Dependencies
+├── .gitignore         # Ignored files
+├── eval.csv           # Generated evaluation results
+└── README.md          # Project documentation
